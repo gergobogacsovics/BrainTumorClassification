@@ -1,3 +1,5 @@
+# This file contains an updated version of the original histogram loss implementation which can be found at the following link:
+# https://github.com/valerystrizh/pytorch-histogram-loss
 import torch
 
 from numpy.testing import assert_almost_equal
